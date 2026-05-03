@@ -3,7 +3,7 @@
 
 > Turning raw data into decisions that matter.
 
-![LinkedIn](https://www.linkedin.com/in/mohamed-magdy-57b9a03aa/?skipRedirect=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-magdy-57b9a03aa/)
 
 ---
 
